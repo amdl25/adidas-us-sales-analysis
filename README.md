@@ -57,9 +57,9 @@ Pivot tables · pivot charts · slicers · timeline · Analysis ToolPak (descrip
 
 ## How to use
 
-Download [`excel/adidas_sales_analysis.xlsx`](excel/adidas_sales_analysis.xlsx) and open it in desktop Excel (2016 or later). GitHub cannot preview Excel files, and the slicers and timeline only work in desktop Excel. Start on the **Dashboard** sheet and use the slicers to filter the data.
+Download [`adidas_sales_analysis.xlsx`](adidas_sales_analysis.xlsx) and open it in desktop Excel (2016 or later). GitHub cannot preview Excel files, and the slicers and timeline only work in desktop Excel. Start on the **Dashboard** sheet and use the slicers to filter the data.
 
-The dataset is also available as CSV in [`data/vanzari_adidas_sua.csv`](data/vanzari_adidas_sua.csv).
+The dataset is also available as CSV in [`adidas_sales_original.csv `](adidas_sales_original.csv ).
 
 ## Repository structure
 
